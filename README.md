@@ -15,3 +15,7 @@ https://lisiynos.googlecode.com/git/dp/questions.html
 ---------------------------------
 * Intellj Idea: http://www.jetbrains.com/idea/download/
 * JDK: http://www.oracle.com/technetwork/java/javase/overview/
+
+Скрипты на Python
+-----------------
+* Python3: https://www.python.org/downloads/
