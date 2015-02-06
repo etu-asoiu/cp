@@ -18,3 +18,7 @@ https://lisiynos.googlecode.com/git/dp/questions.html
 Скрипты на Python
 -----------------
 * Python3: https://www.python.org/downloads/
+
+Почитать
+--------
+* Изучение TDD через интенсивную практику: http://habrahabr.ru/post/225929/ 
